@@ -35,7 +35,7 @@ Rule-based NLP (keyword matching for evaluation)
 
 **Clone the repository:**
 
-git clone https://github.com/your-username/Excel-Mock-Interviewer.git
+git clone https://github.com/Jateen786/Excel_interview_chatbot
 cd Excel-Mock-Interviewer
 
 
